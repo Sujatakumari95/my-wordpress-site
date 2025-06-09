@@ -7,6 +7,8 @@ I used the built-in theme **Astra** and the following plugins:
 - Elementor
 
 💡 All functionality and layout were created using these tools.
+
+
 Home page :
 <img width="947" alt="home" src="https://github.com/user-attachments/assets/87bc82cc-6e07-4b39-bd6d-600eceb09b56" />
 
